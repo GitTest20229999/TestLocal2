@@ -1,4 +1,6 @@
 A
 B
 C
-noi dung thay doi
+Function brank1()
+{
+}
