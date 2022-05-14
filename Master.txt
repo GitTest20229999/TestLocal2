@@ -2,6 +2,7 @@ A
 B
 Function brank6()
 {
+commit lan 2
 }
 
 Function brank1()
