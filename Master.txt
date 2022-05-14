@@ -6,6 +6,18 @@ commit lan 2
 Commit lan 3
 }
 
+Function brank5()
+{
+Brank5 commit lan 2
+Brank5 commit lan 3(sau merger)
+Brank5 commit lan 4
+}
+
+Function Brank4()
+{
+Commit Brank4 lan 2
+}
+
 Function brank1()
 {
 }
