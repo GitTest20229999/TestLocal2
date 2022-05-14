@@ -3,4 +3,5 @@ B
 C
 New3_Commit(){
 Commit1
+Commit2
 }
