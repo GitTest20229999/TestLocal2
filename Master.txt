@@ -8,3 +8,17 @@ Commit3
 Commit4
 Commit5
 }
+New2_Commit()
+{
+ Commit1
+ Commit2
+ Commit3
+ New2_3 commit 1
+ New2_3 commit 2
+}
+New3_Commit(){
+Commit1
+Commit2
+Commit3
+New2_3 commit 3
+}
