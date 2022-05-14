@@ -3,6 +3,7 @@ B
 Function brank6()
 {
 commit lan 2
+Commit lan 3
 }
 
 Function brank1()
