@@ -4,3 +4,8 @@ C
 Function A(){
 Commit lan 1
 }
+Funnction B(){
+Commit lan 1
+Commit lan 3
+Commit lan 4
+}
